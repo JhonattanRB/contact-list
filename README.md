@@ -2,10 +2,8 @@
 
 Contains:
 
-1. Predefined contact list
-2. Function to add contact
-3. Function to delete contact
-4. Function to display contact list
+1. In branch project-1, version 1 of contact list ( name, phone, email )
+2. In branch project-2, version 2 of contact list ( name, lastname, phone, email, location: [city, address] )
 
 
 by Jhonattan Rodriguez
